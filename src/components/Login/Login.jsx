@@ -49,7 +49,7 @@ export default function Login() {
     <Helmet>
       <title>Login</title>
     </Helmet>
-    <div className="container mx-auto py-8 ">
+    <div className="container mx-auto py-20 ">
       <div className="w-1/2 mx-auto py-10 drop-shadow-xl bg-white ">
         <div className="login w-3/4 m-auto py-5">
           <div className="flex text-3xl justify-center gap-x-2 text-green-700 font-bold mb-10">
