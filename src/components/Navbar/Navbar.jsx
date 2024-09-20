@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { NavLink, useNavigate } from 'react-router-dom'; // Import NavLink
-import freshcartLogo from '../../images/freshcart-logo.svg';
+import freshcartLogo from '../../assets/images/freshcart-logo.svg';
 import { authenticationContext } from '../../Context/authentication';
 import { cartContext } from '../../Context/cartContext';
 import { WishlistContext } from '../../Context/wishlistContext';

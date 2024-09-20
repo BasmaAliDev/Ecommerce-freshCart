@@ -1,11 +1,11 @@
 import React from 'react'
-import amazonpay from "../../images/Payment/amazonpay.svg"
-import express from "../../images/Payment/american-express.svg"
-import mastercard from "../../images/Payment/mastercard.svg"
-import paypal from "../../images/Payment/paypal.svg"
-import visa from "../../images/Payment/visa.svg"
-import appStore from "../../images/Payment/appstore-btn.svg"
-import googlePlay from "../../images/Payment/googleplay-btn.svg"
+import amazonpay from "../../assets/images/Payment/amazonpay.svg"
+import express from "../../assets/images/Payment/american-express.svg"
+import mastercard from "../../assets/images/Payment/mastercard.svg"
+import paypal from "../../assets/images/Payment/paypal.svg"
+import visa from "../../assets/images/Payment/visa.svg"
+import appStore from "../../assets/images/Payment/appstore-btn.svg"
+import googlePlay from "../../assets/images/Payment/googleplay-btn.svg"
 export default function Footer() {
   return <>
     <footer className=' bg-gray-200'>

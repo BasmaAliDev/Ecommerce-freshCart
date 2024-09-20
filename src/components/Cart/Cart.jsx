@@ -1,6 +1,4 @@
-import axios from 'axios'
 import React, { useContext } from 'react'
-
 import { cartContext } from '../../Context/cartContext'
 import { Circles } from 'react-loader-spinner';
 import toast from 'react-hot-toast';

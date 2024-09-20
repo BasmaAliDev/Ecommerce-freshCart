@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { useParams, Link } from 'react-router-dom';
 import { productsContext } from '../../Context/Products';
 import { WishlistContext } from './../../Context/wishlistContext';
-import productNotFound from "../../images/product_not_found2.png";
+import productNotFound from "../../assets/images/product_not_found2.png";
 import { cartContext } from './../../Context/cartContext';
 import { Helmet } from 'react-helmet';
 

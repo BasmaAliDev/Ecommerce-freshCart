@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { productsContext } from './../../Context/Products';
 import { WishlistContext } from './../../Context/wishlistContext';
 import { cartContext } from './../../Context/cartContext';
-import productNotFound from "../../images/product_not_found2.png";
+import productNotFound from "../../assets/images/product_not_found2.png";
 import { Helmet } from 'react-helmet';
 
 export default function ProductsWithSameBrand() {

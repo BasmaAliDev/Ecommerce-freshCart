@@ -1,7 +1,7 @@
 import HomeSlider from '../HomeSlider/HomeSlider';
 import CategorySlider from '../CategorySlider/CategorySlider';
-import banner1 from '../../images/grocery-banner.png';
-import banner2 from '../../images/grocery-banner-2.jpeg'
+import banner1 from '../../assets/images/grocery-banner.png';
+import banner2 from '../../assets/images/grocery-banner-2.jpeg'
 import Products from './../Products/Products';
 import { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
